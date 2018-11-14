@@ -1,0 +1,1 @@
+C++ library with non-empty class for testing in other projects (link/binds)
